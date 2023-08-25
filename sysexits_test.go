@@ -6,7 +6,7 @@ import (
 	"os/user"
 	"testing"
 
-	"github.com/andrewhowdencom/animate/sysexits"
+	"github.com/andrewhowdencom/sysexits"
 )
 
 func ExampleSysexit_Error() {
